@@ -18,7 +18,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 
 ## Challenge: The Family Dictionary
 
-- Code
+- [Code](https://github.com/TrinityTerry/py-commontype-dictionaries/blob/master/idioms.py#L1)
 - [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#challenge-the-family-dictionary)
 
 ## Advanced Challenge: Stock Portfolio
