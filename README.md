@@ -1,1 +1,25 @@
-# py-commontype-dictionaries
+# Python Common Types Dictionaries
+
+Created: 04-10-20 | Modified:
+
+This assignment is an individual exercise: [Directions here](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#python-dictionary)
+***
+
+## Challenge: Dictionary of Words
+- Code
+- [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#practice-dictionary-of-words)
+
+## Challenge: English Idioms
+- Code
+- [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#practice-english-idioms)
+
+## Challenge: The Family Dictionary
+- Code
+- [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#challenge-the-family-dictionary)
+
+## Advanced Challenge: Stock Portfolio
+- Code
+- [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#advanced-challenge-stock-portfolio)
+
+
+_This is a lesson from [Book 1](https://github.com/nashville-software-school/bangazon-llc/tree/master/book-1-orientation) - [Chapter 5](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md) of [Bangazon LLC](https://github.com/nashville-software-school/bangazon-llc) Backend Coursework from [Nashville Software School](https://github.com/nashville-software-school)_
