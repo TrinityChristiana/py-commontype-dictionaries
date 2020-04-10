@@ -45,22 +45,22 @@ Example output:
 
 print("******** Purchase Summary ************************************************")
 
+# a dictionary that will hold values to show in console
 done = {}
+
 for item in purchases:
     if item[0] not in done:
-        done[item[0]] = [f"-----{item[0]}-----", 0]
-        
-    print(done[item[0]].)
+        done[item[0]] = [f"-----{item[0]}-----", "", 0, ""]
 
+    done[item[0]].insert(1,
+                         f"{item[1]} shares at {item[3]} dollars each on {item[2]}")
+    done[item[0]][-2] += item[1] * item[3]
 
 for (ticker, array) in done.items():
-    last_index = len(array) - 1
+    last_index = len(array) - 2
 
     for i in range(len(array)):
         if last_index == i:
             print(f"Total value of stock in portfolio: ${array[i]}")
         else:
             print(array[i])
-
-
-# print(done)
