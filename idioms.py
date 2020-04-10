@@ -11,6 +11,7 @@ idioms = {
     "Lucifer": ["Speak", "of", "the", "devil"],
 }
 
+
 for (key, value) in idioms.items():
 
     print(f"{key}: {' '.join(value)}")
