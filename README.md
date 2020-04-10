@@ -13,7 +13,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 
 ## Challenge: English Idioms
 
-- Code
+- [Code](https://github.com/TrinityTerry/py-commontype-dictionaries/blob/master/family_dict.py#L1)
 - [Directions](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_DICTIONARY.md#practice-english-idioms)
 
 ## Challenge: The Family Dictionary
